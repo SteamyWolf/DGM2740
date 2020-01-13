@@ -21,6 +21,10 @@ div.news {
     column-count: 3;
 }
 
+nav, main {
+    max-width: 75rem;
+    margin: auto;
+}
 
 
 } /* End of media Query */
